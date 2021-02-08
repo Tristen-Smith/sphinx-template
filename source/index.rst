@@ -1,7 +1,10 @@
-Sample Sphinx Project
-=====================
+React
+=====
 
-Fill in  this text with your own intro text
+- Tristen Smith
+
+React Project.
+
 
 .. toctree::
    :maxdepth: 1
@@ -9,5 +12,6 @@ Fill in  this text with your own intro text
 
    chapter1/index
    chapter2/index
+   bibliography/index
 
 
