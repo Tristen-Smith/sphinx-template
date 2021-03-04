@@ -4,36 +4,36 @@ ReactJS Outline
 **Thesis:** What is React, where does react show up in our modern technology,
 and why is it used there?
 
-* Step 1 - What is React
+* What is React
 
   * Introduction to Javascript libraries
   * User Interfaces (Reference [#f6]_)
   * What is a UI Design (Reference [#f6]_)
   * Why are UI Designs important (Reference [#f6]_)
 
-* Step 2 - How is React used
+* How is React used
 
   * Introduction to React (Reference [#f1]_ + screenshot)
   * What are components (Reference [#f1]_ + code samples)
   * Render method (Reference [#f1]_ + code samples)
 
-* Step 3 - What competitors are there
+* What competitors are there
 
   * React origins (Reference [#f7]_)
   * Competitors
   * How react is unique from others (Reference [#f7]_)
 
-* Step 4 - What technology uses React
+* What technology uses React
 
   * Different technologies
   * Is the list of technologies diverse
 
-* Step 5 - What companies use React
+* What companies use React
 
   * Different companies (Reference [#f8]_ + screenshots)
   * Where in those companies is React being used (Reference [#f8]_ + screenshots)
 
-* Step 6 - Why is React the best right now
+* Why is React the best right now
 
   * Before React (Reference [#f9]_)
   * Benefits of using React (Reference [#f9]_)
