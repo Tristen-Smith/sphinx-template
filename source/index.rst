@@ -14,5 +14,6 @@ React Project.
    chapter2/index
    bibliography/index
    outline/index
+   report/index
 
 
