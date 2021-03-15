@@ -1,5 +1,5 @@
-ReactJS Outline
-===============
+ReactJS Expanded Report
+=======================
 
 **Thesis:** What is React, where does react show up in our modern technology,
 and why is it used there?
@@ -45,12 +45,9 @@ and why is it used there?
     * Retail
     * Mobile Apps
 
-Expanded Report
-===============
-
 Why is React the best right now?
 --------------------------------
-    Before React became such a big thing, there was a completely different approach
+Before React became such a big thing, there was a completely different approach
 to web development. All you did was make static html pages and render them with
 PHP. This way was used for a very long time before javascript libraries exploded
 with popularity. Then React was introduced and paved the way for developers to
@@ -74,7 +71,6 @@ large collection of developer tools that exists out there. Its easy to think of
 this like a shortcut in a giant maze. It is amazing to have pre build and ready
 to use components of all different kinds. This simply makes writing you application
 so much faster since you are not starting from scratch.
-
 
 .. [#f1] Facebook. (2021). “`React – A JavaScript Library for Building User Interfaces
    <https://reactjs.org/>`_”. Retrieved 2:35 PM, February 10, 2021, from
