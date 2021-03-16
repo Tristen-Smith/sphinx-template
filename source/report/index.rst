@@ -72,6 +72,8 @@ everything goes down.
 
 .. image:: Reusable.png
 
+Reusable Components [#f10]_
+
 With all this information about react when it first came out, how is it still better
 than competitors now? Firstly, a big part of choosing a framework is the
 complexity of it. No one wants to use a framework that is difficult to learn and
@@ -85,6 +87,8 @@ can reuse all these different components which simply means less redundant code.
 
 .. image:: Components.jpg
 
+Example of Components [#f11]_
+
 Finally, there is a large collection of developer tools that exists out there.
 Its easy to think of this like a shortcut in a giant maze. It is amazing to have
 pre build and ready to use components of all different kinds. This simply makes
@@ -93,6 +97,8 @@ What continues to make React so good to use right now is how large the implicati
 of it is.
 
 .. image:: DevTools.png
+
+Example of Developer Tools [#f12]_
 
 So many different type of technologies can make great use of React. For starters,
 any type of dashboard makes great use of React. It is very important to be able
@@ -106,6 +112,8 @@ mentioned earlier. The UI or client side look and ease makes React an easy choic
 for developers when it comes to things like Facebook or Instagram.
 
 .. image:: Insta.jpg
+
+Instagram Example [#f13]_
 
 Then things like retail web application also make use of React for many of the
 same reasons. The reusable components makes building a retail application much
@@ -159,3 +167,15 @@ the big name companies that use React.
    <https://www.simform.com/why-use-react/#:~:text=React%20was%20primarily%20used%20to,off%20with%20the%20remaining%20elements.>`_”
    Simform. Retrieved 11:30 AM, March 1, 2021, from,
    https://www.simform.com/why-use-react/#:~:text=React%20was%20primarily%20used%20to,off%20with%20the%20remaining%20elements.
+
+.. [#f10] "`Reusable Components <https://dev.to/jonisar/reuse-react-components-between-apps-like-a-pro-2a39>`_".
+   Dev. 2019. Received 3-16-2021.
+
+.. [#f11] "`Example of Components <https://www.techdiagonal.com/reactjs_courses/beginner/understanding-reactjs-components/>`_".
+   Suhas Holla. Received 3-16-2021.
+
+.. [#f12] "`Example of Developer Tools <https://flaviocopes.com/react-developer-tools/>`_".
+   flaviocopes. 2019. Received 3-16-2021.
+
+.. [#f13] "`Instagram Example <https://www.youtube.com/watch?v=P_JuUC_g4oo>`_".
+   remarkablemark. 2017. Received 3-16-2021.
